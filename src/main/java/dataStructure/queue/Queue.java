@@ -1,6 +1,4 @@
-package queue;
-
-import stack.Stack;
+package dataStructure.queue;
 
 import java.util.NoSuchElementException;
 
