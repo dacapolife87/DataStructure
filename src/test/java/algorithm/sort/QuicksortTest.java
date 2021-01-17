@@ -1,5 +1,6 @@
-package algorithm.search;
+package algorithm.sort;
 
+import algorithm.sort.Quicksort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
